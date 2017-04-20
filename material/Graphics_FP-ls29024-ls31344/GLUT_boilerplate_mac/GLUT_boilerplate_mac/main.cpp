@@ -94,7 +94,7 @@ vec3 g_lightColor = glm::vec3(1.0f, 1.0f, 1.0f), g_lightColorMars = glm::vec3(0.
 // ------------------------------------------------------------------------------------------
 void createGeometry() {
     // Open the object and declare the varibales which will store its parameters.
-    std::string basePath = "/Users/lluismasdeu/Desktop/marysun-scarabagel/Graphics_FP-ls29024-ls31344/GLUT_boilerplate_mac/GLUT_boilerplate_mac/";
+    std::string basePath = "/Users/lluismasdeu/Desktop/marysun-scarabagel/material/Graphics_FP-ls29024-ls31344/GLUT_boilerplate_mac/GLUT_boilerplate_mac/";
     std::string objectsPath = basePath + "objects/";
     std::string texturesPath = basePath + "textures/";
 
